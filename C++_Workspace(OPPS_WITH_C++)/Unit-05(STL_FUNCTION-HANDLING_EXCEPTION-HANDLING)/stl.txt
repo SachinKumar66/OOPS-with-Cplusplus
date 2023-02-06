@@ -1,0 +1,15 @@
+STL
+>the standard template library is a set of c++ template class
+>stl is mainly divided into three sub libraries:
+1-containers: it is a way that stores data is oraganised in memmory
+2-algorithm:procedure that are applied on containers[search,sort]
+3-iterators:concepts of containers, which point to the element in the container[find next elements]
+
+
+
+
+
+
+
+
+list
